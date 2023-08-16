@@ -1,0 +1,161 @@
+﻿road_width(m),number_of_floor,number_of_bedroom,area(m2),address,price(vnd)
+2m,2 lầu,2 phòng ngủ, 23 m2,"Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng",4 triệu 
+4m,5 lầu,6 phòng ngủ, 82 m2,"Phường Nam Dương, Quận Hải Châu, Đà Nẵng",30 triệu 
+15m,3 lầu,3 phòng ngủ, 110 m2,"Đường Hồ Xuân Hương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng","13,5 triệu "
+5m,3 lầu,4 phòng ngủ, 60 m2,"Đường Đa Mặn Đông 4, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",6 triệu 
+4m,1 lầu,1 phòng ngủ, 65 m2,"Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",5 triệu 
+5m,1 lầu,2 phòng ngủ, 50 m2,"Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",5 triệu 
+4m,1 lầu,2 phòng ngủ, 86 m2,"Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",5 triệu 
+3m,1 lầu,2 phòng ngủ, 60 m2,"Đường Huỳnh Ngọc Huệ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",8 triệu 
+6m,2 lầu,3 phòng ngủ, 80 m2,"Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",8 triệu 
+4m,3 lầu,2 phòng ngủ, 65 m2,"Đường Bàu Năng 11, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",5 triệu 
+7m,3 lầu,3 phòng ngủ, 70 m2,"Đường Ngô Thì Nhậm, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",8 triệu 
+3m,2 lầu,2 phòng ngủ, 60 m2,"Đường Nguyễn Phước Nguyên, Phường An Khê, Quận Thanh Khê, Đà Nẵng",4 triệu 
+3m,2 lầu,3 phòng ngủ, 80 m2,"Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",10 triệu 
+5m,3 lầu,4 phòng ngủ, 52 m2,"Đường Nguyễn Chí Thanh, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng","11,5 triệu "
+"2,5m",3 lầu,3 phòng ngủ, 55 m2,"Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",12 triệu 
+"7,5m",3 lầu,4 phòng ngủ, 100 m2,"Đường Đặng Huy Trứ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",15 triệu 
+15m,5 lầu,6 phòng ngủ, 450 m2,"Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",25 triệu 
+4m,3 lầu,5 phòng ngủ, 150 m2,"Đường Điện Biên Phủ, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",8 triệu 
+4m,3 lầu,4 phòng ngủ, 160 m2,"Đường Nguyễn Phước Nguyên, Phường An Khê, Quận Thanh Khê, Đà Nẵng",11 triệu 
+5m,3 lầu,3 phòng ngủ, 70 m2,"Đường Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",13 triệu 
+5m,0,2 phòng ngủ, 90 m2,"Đường An Đồn, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",13 triệu 
+3m,2 lầu,2 phòng ngủ, 70 m2,"Đường Võ Văn Kiệt, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",8 triệu 
+6m,3 lầu,4 phòng ngủ, 80 m2,"Đường Chính Hữu, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",11 triệu 
+6m,3 lầu,3 phòng ngủ, 80 m2,"Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",10 triệu 
+"5,5m",3 lầu,5 phòng ngủ, 100 m2,"Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",16 triệu 
+"3,5m",3 lầu,4 phòng ngủ, 85 m2,"Đường Võ Nguyên Giáp, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",10 triệu 
+6m,2 lầu,3 phòng ngủ, 70 m2,"Đường Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",10 triệu 
+"4,5m",3 lầu,4 phòng ngủ, 65 m2,"Đường Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",10 triệu 
+2m,1 lầu,2 phòng ngủ, 60 m2,"Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",5 triệu 
+4m,4 lầu,7 phòng ngủ, 200 m2,"Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",30 triệu 
+5m,3 lầu,4 phòng ngủ, 100 m2,"Đường Đỗ Huy Uyển, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",15 triệu 
+2m,1 lầu,2 phòng ngủ, 80 m2,"Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",6 triệu 
+2m,2 lầu,3 phòng ngủ, 85 m2,"Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",7 triệu 
+4m,3 lầu,3 phòng ngủ, 50 m2,"Đường Trần Văn Thành, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",12 triệu 
+3m,3 lầu,2 phòng ngủ, 76 m2,"Đường Thanh Long, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",7 triệu 
+5m,2 lầu,3 phòng ngủ, 100 m2,"Đường Võ Nguyên Giáp, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",12 triệu 
+6m,2 lầu,3 phòng ngủ, 130 m2,"Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",13 triệu 
+5m,3 lầu,3 phòng ngủ, 80 m2,"Đường Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",12 triệu 
+2m,2 lầu,3 phòng ngủ, 80 m2,"Đường Huỳnh Thúc Kháng, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng",6 triệu 
+3m,2 lầu,4 phòng ngủ, 85 m2,"Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng",8 triệu 
+"7,5m",2 lầu,3 phòng ngủ, 250 m2,"Đường Âu Cơ, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",10 triệu 
+3m,1 lầu,1 phòng ngủ, 72 m2,"Đường Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng","2,5 triệu "
+30m,1 lầu,1 phòng ngủ, 700 m2,"Đường Âu Cơ, Phường Hòa Hiệp Bắc, Quận Liên Chiểu, Đà Nẵng",130 triệu 
+"3,5m",3 lầu,4 phòng ngủ, 80 m2,"Đường Võ Nguyên Giáp, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",12 triệu 
+3m,1 lầu,2 phòng ngủ, 80 m2,"Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",6 triệu 
+3m5m,3 lầu,2 phòng ngủ, 60 m2,"Đường Lê Lợi, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",13 triệu 
+10m,2 lầu,2 phòng ngủ, 80 m2,"Đường Phan Bôi, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",10 triệu 
+5m,3 lầu,4 phòng ngủ, 85 m2,"Đường Võ Văn Kiệt, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",15 triệu 
+5m,2 lầu,3 phòng ngủ, 130 m2,"Đường Hải Phòng, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng","12,5 triệu "
+3m,2 lầu,3 phòng ngủ, 80 m2,"Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",8 triệu 
+6m,2 lầu,2 phòng ngủ, 60 m2,"Đường Phan Thành Tài, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",5 triệu 
+5m,3 lầu,4 phòng ngủ, 80 m2,"Đường Võ Văn Kiệt, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",20 triệu 
+4m,2 lầu,2 phòng ngủ, 110 m2,"Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",8 triệu 
+3m,3 lầu,2 phòng ngủ, 60 m2,"Đường Lê Duẩn, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",8 triệu 
+3m,3 lầu,2 phòng ngủ, 79 m2,"Đường Phan Thanh, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",12 triệu 
+5m,3 lầu,3 phòng ngủ, 40 m2,"Đường Tạ Hiện, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",10 triệu 
+5m,3 lầu,3 phòng ngủ, 80 m2,"Đường Lê Duẩn, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",10 triệu 
+"2,5m",2 lầu,2 phòng ngủ, 50 m2,"Đường Phan Chu Trinh, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",7 triệu 
+4m,2 lầu,3 phòng ngủ, 90 m2,"Đường Đống Đa, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng","7,5 triệu "
+5m5m,2 lầu,0, 41 m2,"Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng","5,5 triệu "
+5m,3 lầu,3 phòng ngủ, 80 m2,"Đường Nguyễn Văn Thoại, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",12 triệu 
+4m,2 lầu,3 phòng ngủ, 40 m2,"Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",6 triệu 
+5m,3 lầu,3 phòng ngủ, 80 m2,"Đường Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",12 triệu 
+"2,5m",1 lầu,2 phòng ngủ, 51 m2,"Đường Tôn Đức Thắng, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng","4,5 triệu "
+5m,2 lầu,3 phòng ngủ, 72 m2,"Đường Trần Đình Nam, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",6 triệu 
+3m,3 lầu,3 phòng ngủ, 50 m2,"Đường Lê Hữu Trác, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",10 triệu 
+10m,4 lầu,4 phòng ngủ, 60 m2,"Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",10 triệu 
+10m,3 lầu,3 phòng ngủ, 200 m2,"Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",12 triệu 
+5m,1 lầu,2 phòng ngủ, 200 m2,"Đường Lý Thường Kiệt, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",17 triệu 
+4m,2 lầu,2 phòng ngủ, 50 m2,"Đường Hoàng Diệu, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng",6 triệu 
+4m,3 lầu,3 phòng ngủ, 110 m2,"Đường Hồ Xuân Hương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng","13,5 triệu "
+3m,3 lầu,3 phòng ngủ, 72 m2,"Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",10 triệu 
+5m,3 lầu,3 phòng ngủ, 90 m2,"Đường Võ Văn Kiệt, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",18 triệu 
+4m,2 lầu,2 phòng ngủ, 80 m2,"Đường Lý Thái Tổ, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",6 triệu 
+4m,0,2 phòng ngủ, 70 m2,"Đường Lê Đình Lý, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng","4,5 triệu "
+5m,4 lầu,4 phòng ngủ, 75 m2,"Đường Lê Đình Lý, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng","12,5 triệu "
+5m,2 lầu,3 phòng ngủ, 100 m2,"Đường Chế Lan Viên, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",12 triệu 
+5m,3 lầu,3 phòng ngủ, 43 m2,"Đường Đống Đa, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",11 triệu 
+"5,5m",2 lầu,3 phòng ngủ, 75 m2,"Đường Lương Nhữ Hộc, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",13 triệu 
+3m,3 lầu,3 phòng ngủ, 72 m2,"Đường Hoàng Diệu, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",10 triệu 
+10m,2 lầu,2 phòng ngủ, 53 m2,"Đường Văn Cao, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",12 triệu 
+10m,3 lầu,3 phòng ngủ, 200 m2,"Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",12 triệu 
+10m,2 lầu,2 phòng ngủ, 53 m2,"Đường Văn Cao, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",12 triệu 
+10m,4 lầu,4 phòng ngủ, 60 m2,"Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",10 triệu 
+10m,3 lầu,3 phòng ngủ, 200 m2,"Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",12 triệu 
+10m,2 lầu,2 phòng ngủ, 53 m2,"Đường Văn Cao, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",12 triệu 
+5m5m,2 lầu,3 phòng ngủ, 90 m2,"Đường Đống Đa, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng","8,5 triệu "
+10m,2 lầu,2 phòng ngủ, 190 m2,"Đường Phan Đăng Lưu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",38 triệu 
+5m,3 lầu,3 phòng ngủ, 90 m2,"Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",8 triệu 
+4m,3 lầu,4 phòng ngủ, 60 m2,"Đường Hồ Xuân Hương, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",13 triệu 
+3m,3 lầu,4 phòng ngủ, 60 m2,"Đường Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",10 triệu 
+3m,3 lầu,4 phòng ngủ, 60 m2,"Đường Phan Tứ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",13 triệu 
+0m,0,0, 400 m2,"Đường Lý Thường Kiệt, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",45 triệu 
+10m,3 lầu,2 phòng ngủ, 108 m2,"Đường Nguyễn Văn Thoại, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",20 triệu 
+10m,3 lầu,2 phòng ngủ, 108 m2,"Đường Nguyễn Văn Thoại, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",20 triệu 
+10m,3 lầu,2 phòng ngủ, 108 m2,"Đường Nguyễn Văn Thoại, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",20 triệu 
+3m,2 lầu,3 phòng ngủ, 52 m2,"Đường Ông Ích Khiêm, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",10 triệu 
+4m,3 lầu,3 phòng ngủ, 70 m2,"Đường Đông Giang, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",15 triệu 
+4m,3 lầu,3 phòng ngủ, 90 m2,"Đường Hồ Xuân Hương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",15 triệu 
+10m,3 lầu,4 phòng ngủ, 66 m2,"Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",10 triệu 
+4m,3 lầu,4 phòng ngủ, 65 m2,"Đường Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",10 triệu 
+3m,3 lầu,3 phòng ngủ, 50 m2,"Đường Hoàng Diệu, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng","8,5 triệu "
+5m,2 lầu,3 phòng ngủ, 80 m2,"Đường Huỳnh Thúc Kháng, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng",6 triệu 
+5m,4 lầu,3 phòng ngủ, 55 m2,"Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",10 triệu 
+3m,2 lầu,2 phòng ngủ, 65 m2,"Đường Ông Ích Khiêm, Phường Tân Chính, Quận Hải Châu, Đà Nẵng",5 triệu 
+2m,2 lầu,2 phòng ngủ, 80 m2,"Đường Hải Phòng, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng","8,5 triệu "
+3m,3 lầu,5 phòng ngủ, 60 m2,"Đường Hà Bổng, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",13 triệu 
+"2,5m",1 lầu,1 phòng ngủ, 30 m2,"Đường Hải Phòng, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng","3,7 triệu "
+3m,4 lầu,5 phòng ngủ, 60 m2,"Đường Ngô Quyền, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng","6,5 triệu "
+5m,1 lầu,3 phòng ngủ, 90 m2,"Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng","6,5 triệu "
+3m,3 lầu,3 phòng ngủ, 40 m2,"Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",9 triệu 
+4m,3 lầu,3 phòng ngủ, 70 m2,"Đường Ngô Thì Nhậm, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",8 triệu 
+4m,2 lầu,3 phòng ngủ, 85 m2,"Đường An Trung Đông 1, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",7 triệu 
+"2,5m",2 lầu,4 phòng ngủ, 50 m2,"Đường Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",9 triệu 
+30m,2 lầu,2 phòng ngủ, 500 m2,"Đường Hùng Vương, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng",120 triệu 
+5m,1 lầu,3 phòng ngủ, 210 m2,"Đường Nguyễn Mộng Tuân, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",8 triệu 
+2m,1 lầu,2 phòng ngủ, 65 m2,"Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng","4,5 triệu "
+4m,2 lầu,2 phòng ngủ, 114 m2,"Đường Nguyễn Phong Sắc, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",8 triệu 
+5m,2 lầu,1 phòng ngủ, 82 m2,"Đường Phạm Cự Lượng, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",8 triệu 
+6m,0,2 phòng ngủ, 70 m2,"Đường Nguyễn Chánh, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng","2,8 triệu "
+5m,3 lầu,3 phòng ngủ, 75 m2,"Đường Chế Lan Viên, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",17 triệu 
+3m,3 lầu,3 phòng ngủ, 72 m2,"Đường Duy Tân, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",10 triệu 
+3m,3 lầu,4 phòng ngủ, 80 m2,"Đường Ông Ích Khiêm, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",8 triệu 
+3m,3 lầu,2 phòng ngủ, 70 m2,"Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",12 triệu 
+3m,5 lầu,5 phòng ngủ, 43 m2,"Đường Hùng Vương, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",17 triệu 
+7m,3 lầu,3 phòng ngủ, 50 m2,"Đường Trường Chinh, Phường An Khê, Quận Thanh Khê, Đà Nẵng","7,5 triệu "
+3m,2 lầu,3 phòng ngủ, 100 m2,"Đường Chế Lan Viên, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",12 triệu 
+2m,2 lầu,2 phòng ngủ, 50 m2,"Đường Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng",6 triệu 
+7m,3 lầu,4 phòng ngủ, 150 m2,"Đường Nguyễn Tất Thành, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng","16,5 triệu "
+3m,3 lầu,3 phòng ngủ, 100 m2,"Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",8 triệu 
+"2,5m",1 lầu,2 phòng ngủ, 42 m2,"Đường Lý Thái Tổ, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",5 triệu 
+"2,5m",1 lầu,2 phòng ngủ, 50 m2,"Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",6 triệu 
+"3,5m",3 lầu,4 phòng ngủ, 120 m2,"Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",15 triệu 
+0m,0,0, 1.350 m2,"Đường Nguyễn Hữu Thọ, Phường Hòa Cường, Quận Hải Châu, Đà Nẵng",135 triệu 
+"7,5m",3 lầu,3 phòng ngủ, 100 m2,"Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",8 triệu 
+2m,1 lầu,2 phòng ngủ, 73 m2,"Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",6 triệu 
+5m,3 lầu,3 phòng ngủ, 95 m2,"Đường Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",12 triệu 
+5m,3 lầu,4 phòng ngủ, 160 m2,"Đường Hoàng Bình Chính, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",10 triệu 
+4m,2 lầu,3 phòng ngủ, 120 m2,"Đường Nguyễn Huy Lượng, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",7 triệu 
+3m,1 lầu,3 phòng ngủ, 50 m2,"Đường Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",6 triệu 
+4m,0,2 phòng ngủ, 50 m2,"Đường Nguyễn Văn Linh, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng","5,5 triệu "
+3m,3 lầu,4 phòng ngủ, 60 m2,"Đường Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",10 triệu 
+6m,3 lầu,3 phòng ngủ, 105 m2,"Đường Nguyễn Thành Hãn, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",15 triệu 
+5m,2 lầu,2 phòng ngủ, 100 m2,"Đường Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",10 triệu 
+5m,2 lầu,3 phòng ngủ, 80 m2,"Đường Châu Thị Vĩnh Tế, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",16 triệu 
+2m,1 lầu,2 phòng ngủ, 194 m2,"Đường Thanh Hải, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",7 triệu 
+"3,5m",2 lầu,3 phòng ngủ, 50 m2,"Đường Lý Tự Trọng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng","7,5 triệu "
+"2,5m",0,2 phòng ngủ, 50 m2,"Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",4 triệu 
+"2,5m",1 lầu,2 phòng ngủ, 40 m2,"Đường Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",5 triệu 
+"6,5m",3 lầu,5 phòng ngủ, 100 m2,"Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",16 triệu 
+3m,1 lầu,1 phòng ngủ, 100 m2,"Đường Lê Trọng Tấn, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng","3,5 triệu "
+3m,3 lầu,3 phòng ngủ, 46 m2,"Đường Trần Phú, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",10 triệu 
+3m,3 lầu,5 phòng ngủ, 80 m2,"Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",9 triệu 
+"5,5m",2 lầu,2 phòng ngủ, 70 m2,"Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng","5,5 triệu "
+4m,4 lầu,7 phòng ngủ, 200 m2,"Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",30 triệu 
+3m,3 lầu,3 phòng ngủ, 63 m2,"Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",15 triệu 
+4m,4 lầu,4 phòng ngủ, 60 m2,"Đường Trần Quốc Toản, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng",12 triệu 
+"2,5m",2 lầu,3 phòng ngủ, 85 m2,"Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",7 triệu 
+3m,1 lầu,2 phòng ngủ, 80 m2,"Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",6 triệu 
+2m,3 lầu,3 phòng ngủ, 148 m2,"Đường Mai Lão Bạng, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",6 triệu 
